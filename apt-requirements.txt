@@ -1,0 +1,6 @@
+libnotify4
+libnotify-bin
+libcairo2-dev
+libgirepository1.0-dev
+# This one is for the sender
+libc++-dev

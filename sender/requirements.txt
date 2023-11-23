@@ -1,0 +1,4 @@
+pydantic==1.9.1
+# aiotdlib will NOT work with pydantic >= 2
+aiotdlib
+python-dotenv
